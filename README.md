@@ -5,3 +5,4 @@ docker-compose down
 docker-compose up -d
 
 add this line to
+and change this
