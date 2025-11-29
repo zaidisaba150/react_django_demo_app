@@ -4,4 +4,4 @@ A demo app for React and Django Deployment
 docker-compose down
 docker-compose up -d
 
-ci-cd deployment
+ci-cd deployment usinng agent finally and done
